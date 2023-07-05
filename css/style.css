@@ -228,6 +228,9 @@ body {
     .mission-text-p {
         font-size: 18px;
     }
+    .mrg-btm-adj{
+        margin-bottom: 150px;
+    }
 }
 /* <!-- ========== MEDIA-QUERY-768PX-END ========== --> */
 /* <!-- ========== MEDIA-QUERY-425PX-START ========== --> */
@@ -251,6 +254,9 @@ body {
     }
     .mission-text-p {
         font-size: 16px;
+    }
+    .card-mrg-btm-adj{
+        margin-bottom: 50px;
     }
 }
 /* <!-- ========== MEDIA-QUERY-425PX-END ========== --> */
