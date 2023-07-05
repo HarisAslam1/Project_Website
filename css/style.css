@@ -152,7 +152,7 @@ body {
 
 .career {
     background-color: var(--back-color);
-    padding-top: 3rem;
+    padding-top: 6rem;
     padding-bottom: 3rem;
 }
 
@@ -231,6 +231,12 @@ body {
     .mrg-btm-adj{
         margin-bottom: 150px;
     }
+    .founder-card {
+        padding: 40px 20px;
+    }
+    .tx-s-adj h5{
+        font-size: 19px;
+    }
 }
 /* <!-- ========== MEDIA-QUERY-768PX-END ========== --> */
 /* <!-- ========== MEDIA-QUERY-425PX-START ========== --> */
@@ -258,6 +264,12 @@ body {
     .card-mrg-btm-adj{
         margin-bottom: 50px;
     }
+    .founder-card {
+        margin-bottom: 60px;
+    }
+    .tx-s-adj h5{
+        font-size: 23px;
+    }
 }
 /* <!-- ========== MEDIA-QUERY-425PX-END ========== --> */
 /* <!-- ========== MEDIA-QUERY-375PX-START ========== --> */
@@ -282,6 +294,9 @@ body {
     .mission-text-p {
         font-size: 14px;
     }
+    .tx-s-adj h5{
+        font-size: 20px;
+    }
 }
 /* <!-- ========== MEDIA-QUERY-375PX-END ========== --> */
 /* <!-- ========== MEDIA-QUERY-320PX-START ========== --> */
@@ -305,6 +320,9 @@ body {
     }
     .mission-text-p {
         font-size: 12px;
+    }
+    .tx-s-adj h5{
+        font-size: 16px;
     }
 }
 /* <!-- ========== MEDIA-QUERY-320PX-END ========== --> */
