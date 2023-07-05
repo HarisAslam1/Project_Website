@@ -17,7 +17,7 @@ $(document).ready(function () {
 })
 
 window.ityped.init(document.querySelector('.atyped'), {
-  strings: ['Breaking The Traditional Mold Of Human-Technology Interaction', 'Revolutionizing Input Technology, Unleashing Creativity'],
+  strings: ['Breaking The Traditional Mold Of Human-Technology Interaction.', 'Revolutionizing Input Technology, Unleashing Creativity.'],
   typeSpeed: 100,
   BackSpeed: 8,
   loop: true
