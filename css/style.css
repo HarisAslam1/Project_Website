@@ -237,6 +237,9 @@ body {
     .tx-s-adj h5{
         font-size: 19px;
     }
+    .footer-text{
+        font-size: 14px;
+    }
 }
 /* <!-- ========== MEDIA-QUERY-768PX-END ========== --> */
 /* <!-- ========== MEDIA-QUERY-425PX-START ========== --> */
@@ -270,6 +273,15 @@ body {
     .tx-s-adj h5{
         font-size: 23px;
     }
+    .font-adj h6{
+        font-size: 14px;
+    }
+    .font-adj a{
+        font-size: 14px;
+    }
+    .footer-text{
+        font-size: 12px;
+    }
 }
 /* <!-- ========== MEDIA-QUERY-425PX-END ========== --> */
 /* <!-- ========== MEDIA-QUERY-375PX-START ========== --> */
@@ -297,6 +309,15 @@ body {
     .tx-s-adj h5{
         font-size: 20px;
     }
+    .font-adj h6{
+        font-size: 12px;
+    }
+    .font-adj a{
+        font-size: 12px;
+    }
+    .footer-text{
+        font-size: 10px;
+    }
 }
 /* <!-- ========== MEDIA-QUERY-375PX-END ========== --> */
 /* <!-- ========== MEDIA-QUERY-320PX-START ========== --> */
@@ -323,6 +344,9 @@ body {
     }
     .tx-s-adj h5{
         font-size: 16px;
+    }
+    .career-text{
+        font-size: 17px;
     }
 }
 /* <!-- ========== MEDIA-QUERY-320PX-END ========== --> */
